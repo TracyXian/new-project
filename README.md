@@ -1,2 +1,2 @@
-# GitHub-demo
+# new project
 test
